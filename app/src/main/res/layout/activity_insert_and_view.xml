@@ -40,11 +40,12 @@
             android:textSize="12sp" />
 
         <EditText
+            android:gravity="fill_horizontal"
             android:id="@+id/editContent"
             android:layout_width="match_parent"
             android:layout_height="400dp"
             android:layout_marginTop="10dp"
-            android:background="#e6DFDF"
+            android:background="#E6DFDF"
             android:padding="5dp"
             android:layout_weight="1"
             android:singleLine="false"

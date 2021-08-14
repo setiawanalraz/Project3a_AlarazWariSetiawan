@@ -11,9 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Project3a_AlarazWariSetiawan">
-        <activity android:name=".InsertAndViewActivity"></activity>
-        <activity android:name=".SplashScreen" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".InsertAndViewActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
